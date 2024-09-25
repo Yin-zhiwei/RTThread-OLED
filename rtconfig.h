@@ -204,6 +204,7 @@
 
 /* U8G2 Examples */
 
+#define U8G2_USING_SW_I2C_SSD1306
 /* end of U8G2 Examples */
 #define PKG_USING_U8G2_OFFICIAL_LATEST_VERSION
 #define PKG_U8G2_OFFICIAL_VER_NUM 0x99999
